@@ -1,0 +1,33 @@
+.text-center span{
+	font-size:50px;
+}
+
+.text-center{
+	font-size: 25px;
+}
+
+.container .row{
+	height:100%;
+}
+
+#root{
+	height: 100%;
+}
+.app-container{
+	height: 100%;
+}
+
+.container{
+	height: 100%;
+}
+
+#main{
+	height:100%;
+}
+.container-fluid{
+	height: 100%;
+}
+
+.gotologin{
+	margin-top: 10000px;
+}

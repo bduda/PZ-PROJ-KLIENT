@@ -1,0 +1,17 @@
+.allroom{
+    max-width: 100%;
+    margin: 0 auto;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.room-form-button {
+    width: 90%;
+    height:150%;
+    margin-bottom:15px;
+}
+
+th.column-action,
+td.column-action {
+  text-align: center !important;
+}

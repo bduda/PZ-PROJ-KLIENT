@@ -1,0 +1,26 @@
+.signup-container {
+    max-width: 100%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.signup-form-button {
+    width: 33%;
+    margin-top: 15px;
+}
+
+.signup-form-button[disabled], .signup-form-button[disabled]:hover, .signup-form-button[disabled]:focus {
+    opacity: 0.6;
+    color: #fff;
+    background-color: #1890ff;
+    border-color: #1890ff;
+}
+
+.signup-form input {
+    margin-bottom: 3px;
+}
+
+
+.table-section {
+    margin-top: 15px;
+}
